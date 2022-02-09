@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielBritoP)](https://github.com/GabrielBritoP/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielBritoP&theme=nord_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielBritoP&theme=nord&_icons=true)
 <!--
 **GabrielBritoP/GabrielBritoP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
