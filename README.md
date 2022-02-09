@@ -1,9 +1,9 @@
 ### Hi there 👋
-
-<!--
-**GabrielBritoP/GabrielBritoP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 (https://github-readme-stats.vercel.app/api?username=GabrielBritoP)](https://github.com/GabrielBritoP/github-readme-stats)
 (https://github-readme-stats.vercel.app/api?username=GabrielBritoP&theme=dark&show_icons=true)
+<!--
+**GabrielBritoP/GabrielBritoP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
