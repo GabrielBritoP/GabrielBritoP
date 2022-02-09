@@ -1,6 +1,7 @@
 ### Hi there 👋
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBritoP&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielBritoP&theme=nord&_icons=true)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBritoP&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **GabrielBritoP/GabrielBritoP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
