@@ -1,19 +1,18 @@
-### Hi there 👋, I am a front-end developer from Brazil, current working with vue.js on GOATSD 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielBritoP&theme=nord&_icons=true)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBritoP&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**GabrielBritoP/GabrielBritoP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=GabrielBritoP&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 
 
-Here are some ideas to get you started:
+###  Hi there 👋, I am a front-end developer from Brazil , I i have started studying web development since 2020
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p>
+
+ Current working with Vue.js and typescript on GOATSD <br/>
+ And studying Vue.js 3, Nuxt, Vite and Node.js
+
+</p>
+<hr>
+
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBritoP&layout=compact&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4)](https://github.com/anuraghazra/github-readme-stats)
+
